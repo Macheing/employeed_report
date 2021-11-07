@@ -1,11 +1,17 @@
 ./employees_starting_date.py
+
 outputs
+
 Return list of employees employed on a given date from specified year, month, and date.
+
 Getting the first start date to query for.
 
 The date must be greater than Jan 1st, 2018
+
 Enter a value for the year: 2018
+
 Enter a value for the month: 1
+
 Enter a value for the day: 1
 
 Started on Jan 01, 2018: ['Aurelia Giles']
